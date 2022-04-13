@@ -26,6 +26,7 @@ setInterval(() => {
   let acronyms = h >= 12 ? "PM" : "AM";
 
   //Convert 24hr clock to 12hr clock
+  
   if (h > 12) h -= 12;
 
   //Add zero before single digit number
