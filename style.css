@@ -89,7 +89,7 @@ body {
 
 .circle i {
   position: absolute;
-  width: 6px;
+  width: 7px;
   height: 50%;
   background: var(--clr);
   opacity: 0.75;
@@ -102,7 +102,7 @@ body {
 }
 
 .circle:nth-child(2) i {
-  width: 6px;
+  width: 5px;
 }
 
 .circle2 {
