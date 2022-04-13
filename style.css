@@ -156,6 +156,7 @@ body {
   content: ":";
   position: absolute;
   right: -4px;
+  top: -2.5px;
 }
 
 #time div:last-child {
